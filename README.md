@@ -6,7 +6,7 @@ I'm currently a student at 42bangkok. passionate about FPS gaming/PC building.
 - 🌱 I’m currently learning C, Python, Javascript, web hosting.
 - 👯 I’m looking to collaborate on anykind of open source project.
 - 💬 Ask me about anything you wonder.
-- 📫 How to reach me: iluvnorminette@gmail.com.
+- 📫 How to reach me: Bird
 - 😄 If you want me to help you on anything, feel free to ask.
 
 ### Connect with me:
