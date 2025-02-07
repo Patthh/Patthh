@@ -1,6 +1,6 @@
 # Hi, I'm [Patthh] 👋
 
-I'm currently a student at 42bangkok. passionate about FPS gaming/PC building. You can find me around BKK.
+I'm currently a student at 42bangkok. passionate about FPS gaming/PC building.
 
 - 🔭 I’m currently working on How to customize my own printf in C language.
 - 🌱 I’m currently learning C, Python, Javascript, web hosting.
