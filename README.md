@@ -17,3 +17,8 @@ I'm currently a student at 42bangkok. passionate about FPS gaming/PC building.
 
 -I have been using something like selenium on Python before.
 -I used to work about some project that have to use LINE API
+
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80M3gyc3Y4NWtzdXltb2hlaWx1NGVvaW12cjAwbTBqb3J3dW9lMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvoLz81uCJPjy/giphy.gif)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80M3gyc3Y4NWtzdXltb2hlaWx1NGVvaW12cjAwbTBqb3J3dW9lMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvoLz81uCJPjy/giphy.gif)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80M3gyc3Y4NWtzdXltb2hlaWx1NGVvaW12cjAwbTBqb3J3dW9lMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvoLz81uCJPjy/giphy.gif)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80M3gyc3Y4NWtzdXltb2hlaWx1NGVvaW12cjAwbTBqb3J3dW9lMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvoLz81uCJPjy/giphy.gif)
