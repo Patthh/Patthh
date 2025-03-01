@@ -1,15 +1,18 @@
 # Hi, I'm [Patthh] 👋
 
 - 🔭 I’m currently working on How to customize my own printf in C language.
+  
 - 🌱 I’m currently learning C, Python, Javascript, web hosting.
+  
 - 👯 I’m looking to collaborate on anykind of open source project.
+  
 - 💬 Ask me about anything you wonder.
-- 📫 How to reach me: Bird
+  
 - 😄 If you want me to help you on anything, feel free to ask.
 
 ### Connect with me:
 
-[when I fininshing my set up on linktree it'll be here]
+[![Discord](https://img.shields.io/badge/Discord-candide-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/462182540313231361)
 
 ### Languages and Tools:
 
