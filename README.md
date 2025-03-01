@@ -32,6 +32,9 @@ I'm passionate about software development and exploring new technologies. I'm al
 #### Scripting and Shell
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Zsh](https://img.shields.io/badge/Zsh-48CAE6?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
+[![Awk](https://img.shields.io/badge/Awk-00599C?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/gawk/)
+[![Sed](https://img.shields.io/badge/Sed-00599C?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/sed/)
 
 ### Version Control and Collaboration
 
@@ -42,6 +45,7 @@ I'm passionate about software development and exploring new technologies. I'm al
 ### Containerization and Virtualization
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-18A1DE?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 ### Operating Systems and Networking
 
