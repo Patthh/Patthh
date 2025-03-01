@@ -13,6 +13,7 @@
 ### Connect with me:
 
 [![Discord](https://img.shields.io/badge/Discord-candide-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/462182540313231361)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpatdon@gmail.com)
 
 ### Languages and Tools:
 
