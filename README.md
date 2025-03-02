@@ -2,7 +2,7 @@
 
 I'm passionate about software development and exploring new technologies. I'm also seeking remote work opportunities.
 
-## About Me
+## whoami
 
 - <a href="http://wolf3d.atw.hu/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="3%"></a> Currently diving deep into C, working on a `cub3d` project (implementation of Wolfenstein 3D raycasting).
 - <a href="https://fullstackopen.com/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="3%"></a> Expanding my skills in Python, JavaScript, and web hosting.
