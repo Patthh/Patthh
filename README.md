@@ -1,21 +1,25 @@
-# Hi there, I'm Patthh(Patdon) 👋
+# Hi, I'm Patthh(Patdon) <a href="https://patthh.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%"></a>
 
 I'm passionate about software development and exploring new technologies. I'm also seeking remote work opportunities.
 
 ## About Me
 
-- 🔭 Currently diving deep into C, working on a `cub3d` project (implementation of Wolfenstein 3D raycasting).
-- 🌱 Expanding my skills in Python, JavaScript, and web hosting.
-- 🤝 Open to collaborating on any open-source projects! Let's build something awesome together.
-- 💬 Feel free to ask me anything.
-- 😄 Need help? Don't hesitate to reach out.
-
+- <a href="http://wolf3d.atw.hu/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="3%"></a> Currently diving deep into C, working on a `cub3d` project (implementation of Wolfenstein 3D raycasting).
+- <a href="https://fullstackopen.com/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="3%"></a> Expanding my skills in Python, JavaScript, and web hosting.
+- <a href="https://github.com/sereneblue/awesome-oss"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8" width="3%"></a> Open to collaborating on any open-source projects! Let's build something awesome together.
+- <a href="https://letmegooglethat.com/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png?v8" width="3%"></a> Feel free to ask me anything.
+- <a href="mailto:rpatdon@gmail.com"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" width="3%"></a> Need help? Don't hesitate to reach out.
+  
 ## Connect w/ me
 
 [![Discord](https://img.shields.io/badge/Discord-candide-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/462182540313231361)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpatdon@gmail.com)
 
-## My Tech Stack
+
+>[!NOTE]
+>"Feel free to interact with this README! Try clicking on the emojis, badges, and icons. Most of the element here are interactable"
+
+<br>
 
 ### Programming Languages
 
@@ -24,12 +28,15 @@ I'm passionate about software development and exploring new technologies. I'm al
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
+<details>
+  <summary>My Tech Stack</summary>
+  
 ### Web Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-#### Scripting and Shell
+### Scripting and Shell
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Zsh](https://img.shields.io/badge/Zsh-48CAE6?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
@@ -56,13 +63,10 @@ I'm passionate about software development and exploring new technologies. I'm al
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-10)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+</details>
 
-## Let's Connect!
-
-Feel free to connect with me and explore my repositories. Happy coding!
-
-![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)
-![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)
-![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)
-![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)
+[![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.goodreads.com/book/show/19380.Candide)
+[![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.goodreads.com/book/show/49552.The_Stranger)
+[![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.youtube.com/watch?v=G5YwhjCywvw)
+[![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.imdb.com/title/tt0097165/)
 
