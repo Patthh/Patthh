@@ -65,6 +65,10 @@ I'm passionate about software development and exploring new technologies. I'm al
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 </details>
 
+![Profile views](https://komarev.com/ghpvc/?username=Patthh&label=View_count&color=2ea44f&style=for-the-badge)
+
+Thanks for checking out my GitHub profile
+
 [![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.goodreads.com/book/show/19380.Candide)
 [![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.goodreads.com/book/show/49552.The_Stranger)
 [![Alt Text](https://github.com/Patthh/Patthh/blob/main/sturgeon.gif)](https://www.youtube.com/watch?v=G5YwhjCywvw)
