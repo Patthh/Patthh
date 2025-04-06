@@ -4,7 +4,7 @@ I'm passionate about software development and exploring new technologies. I'm al
 
 ## [whoami?](https://man.openbsd.org/whoami.1)
 
-- <a href="http://wolf3d.atw.hu/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="3%"></a> Currently diving deep into C, working on a `cub3d` project (implementation of Wolfenstein 3D raycasting).
+- <a href="http://wolf3d.atw.hu/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png?v8" width="3%"></a> Currently diving deep into C, working on a `cpp` project.
 - <a href="https://fullstackopen.com/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="3%"></a> Expanding my skills in Python, JavaScript, and web hosting.
 - <a href="https://github.com/sereneblue/awesome-oss"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8" width="3%"></a> Open to collaborating on any open-source projects! Let's build something awesome together.
 - <a href="https://letmegooglethat.com/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png?v8" width="3%"></a> Feel free to ask me anything.
